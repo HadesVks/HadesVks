@@ -1,18 +1,18 @@
 <div align="center">
 
 ```
-  ██╗  ██╗██████╗ ██████╗ ███████╗    ██╗  ██╗██╗  ██╗███████╗
-  ██║  ██║██╔══██╗██╔══██╗██╔════╝    ██║  ██║██║ ██╔╝██╔════╝
-  ███████║███████║██║  ██║█████╗      ██║  ██║█████╔╝ ███████╗
-  ██╔══██║██╔══██║██║  ██║██╔══╝      ╚██╗██╔╝██╔═██╗ ╚════██║
-  ██║  ██║██║  ██║██████╔╝███████╗     ╚████╔╝ ██║  ██╗███████╗
-  ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝      ╚═══╝  ╚═╝  ╚═╝╚══════╝
+   ██╗  ██╗ █████╗ ██████╗ ███████╗███████╗   ██╗   ██╗██╗  ██╗███████╗
+   ██║  ██║██╔══██╗██╔══██╗██╔════╝██╔════╝   ██║   ██║██║ ██╔╝██╔════╝
+   ███████║███████║██║  ██║█████╗  ███████╗   ██║   ██║█████╔╝ ███████╗
+   ██╔══██║██╔══██║██║  ██║██╔══╝  ╚════██║   ╚██╗ ██╔╝██╔═██╗ ╚════██║
+   ██║  ██║██║  ██║██████╔╝███████╗███████║    ╚████╔╝ ██║  ██╗███████║
+   ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚══════╝     ╚═══╝  ╚═╝  ╚═╝╚══════╝
 ```
 
 # HADES VKS
 ### **Cybersecurity Student & Full-Stack Developer 🇩🇴**
 
-[GitHub](https://github.com/HadesVks) • [Hades House Live](https://hadesvks.github.io/HadesHouse/)
+[GitHub Profile](https://github.com/HadesVks) • [Hades House Live App](https://hadesvks.github.io/HadesHouse/)
 
 ---
 
@@ -20,9 +20,9 @@
 
 ## 📌 About Me
 
-Hi, I'm **Enger (HadesVks)**. I'm a **Cybersecurity student** based in the Dominican Republic 🇩🇴 with a focus on web security, API vulnerability assessment, and full-stack development.
+Hi, I'm **Enger (HadesVks)**. I'm a **Cybersecurity student** based in the Dominican Republic 🇩🇴 with a focus on web security, API vulnerability assessment, and full-stack software development.
 
-- 🛡️ **Focus:** Defensive & Offensive Web Security, Penetration Testing, Secure Coding.
+- 🛡️ **Security Focus:** Defensive & Offensive Web Security, Penetration Testing, Secure Coding.
 - 💻 **Tech Stack:** Python, JavaScript (ES6+), Node.js, Django REST, Linux, Docker, PostgreSQL, Supabase, Redis.
 - 📍 **Location:** Dominican Republic 🇩🇴
 
